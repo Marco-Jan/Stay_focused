@@ -8,7 +8,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: rgb(27, 27, 27);
+    /* background-color: rgb(27, 27, 27); */
+    background-color:red;
 }
 
 #image_focus {
@@ -30,8 +31,7 @@ body {
 .start_btn {
     margin-top: 20px;
     border-radius: 10px;
-    color: rgb(133, 30, 30);
-    /* color: #000015; */
+    color: #000015;
     cursor: pointer;
     transition: 0.5s ease-in-out;
 } 
