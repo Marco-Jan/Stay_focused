@@ -30,7 +30,8 @@ body {
 .start_btn {
     margin-top: 20px;
     border-radius: 10px;
-    color: #000015;
+    color: rgb(133, 30, 30);
+    /* color: #000015; */
     cursor: pointer;
     transition: 0.5s ease-in-out;
 } 
